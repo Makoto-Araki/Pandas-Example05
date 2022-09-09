@@ -19,9 +19,16 @@ frame2
 
 <br>
 
-## データフレーム同士の外部結合
+## データフレーム同士を左外部結合して新しいデータフレーム作成
 ```
 main = pd.merge(frame1, frame2, how='left', on='COL3')
+```
+
+<br>
+
+## 作成したデータフレームに索引を指定
+```
+main.set_index('COL1')
 ```
 
 <br>
