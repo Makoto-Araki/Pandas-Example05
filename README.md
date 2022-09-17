@@ -7,7 +7,7 @@
 ```
 frame1
 ```
-![画像1](./Pandas-Exercises5-1.png)
+![画像1](./image01.png)
 
 <br>
 
@@ -15,7 +15,7 @@ frame1
 ```
 frame2
 ```
-![画像2](./Pandas-Exercises5-2.png)
+![画像2](./image02.png)
 
 <br>
 
@@ -37,4 +37,6 @@ main.set_index('COL1')
 ```
 main
 ```
-![画像3](./Pandas-Exercises5-3.png)
+![画像3](./image03.png)
+
+<br>
